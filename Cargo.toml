@@ -1,0 +1,8 @@
+[package]
+name = "atomics_benchmark"
+version = "0.0.1"
+authors = ["Brian Bowman <seeker14491@gmail.com>"]
+
+[dependencies]
+num_cpus = "0.2.11"
+rand = "0.3.14"
